@@ -1,0 +1,12 @@
+names:
+- pitch
+nc: 1
+roboflow:
+  license: Private
+  project: football-field-8ph1c
+  url: https://app.roboflow.com/imas-13do6/football-field-8ph1c/1
+  version: 1
+  workspace: imas-13do6
+test: ../test/images
+train: ../train/images
+val: ../valid/images
