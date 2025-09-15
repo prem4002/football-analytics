@@ -4,7 +4,7 @@ from typing import List, Tuple
 @dataclass
 class SoccerPitchConfiguration:
     width: int = 7000
-    height: int = 12000
+    length: int = 12000
     penalty_box_width: int = 4100
     penalty_box_length: int = 2015
     goal_box_width: int = 1832
